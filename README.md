@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Ayushi Chopra</h1>
 <h5 align="center">
-  A 2nd year student persuing Btech in Computer Science.
+  A 3rd year student persuing Btech in Computer Science.
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="center" alt="coding"  width="800" height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 

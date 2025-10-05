@@ -23,11 +23,7 @@
 <!-- Stats -->
 <h2 align="center">My Github stats</h2>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=AyushiChopra02&count_private=true&show_icons=true&theme=radical" /></p>
-<!-- Streak -->
-<h2 align="center">My Github Streaks</h2>
-<p align="center">
-  <img alt="GitHub Streak" height="200px" width="500" src="https://github-readme-streak-stats-eight.vercel.app/?user=AyushiChopra02&theme=radical" />
-</p>
+<!-- Streak --> <h2 align="center">My Github Streaks</h2> <a align= "center" href="https://github.com/AyushiChopra02"> <p align="center"><img alt= "stats card" height="200px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiChopra02&theme=radical"> </a></p>
 
 <!-- Connect -->
 <h1 align="center">Connect with me</h2>

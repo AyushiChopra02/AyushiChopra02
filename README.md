@@ -19,8 +19,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AyushiChopra02&label=Profile%20views&color=0e75b6&style=flat" alt="AyushiChopra02" /> </p>
 </p>
 <!-- Languages and Tools -->
-## What I Work With
 
+<h2 align="center"> What I Work With</h2>
 <div align="center">
 
 ###  Frontend

@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devsethi3&theme=tokyonight" alt="Contribution Graph" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiChopra02&theme=tokyonight" alt="Contribution Graph" width="100%">
 </div>
 
 <br/>

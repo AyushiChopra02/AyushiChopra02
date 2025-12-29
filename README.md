@@ -41,8 +41,6 @@
 ![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
 
 
-
-
 ###  Tools & Platforms
 ![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=e0af68)
 ![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
@@ -56,12 +54,18 @@
 <!-- Support -->
 <h2 align="center">Support</h2>
 <p><a href="https://www.buymeacoffee.com/AyushiChopra12"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AyushiChopra12" /></a></p><br><br>
-<!-- Langs -->
-<h2 align="center">Languages used</h2>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika121002&layout=compact&theme=midnight-purple" /></p>
 <!-- Stats -->
-<h2 align="center">My Github stats</h2>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=AyushiChopra02&count_private=true&show_icons=true&theme=radical" /></p>
+<br/>
+
+## GitHub Stats
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devsethi3&theme=tokyonight" alt="Contribution Graph" width="100%">
+</div>
+
+<br/>
 <!-- Streak -->
 <h2 align="center">My Github Streaks</h2>
 <p align="center">

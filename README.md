@@ -40,7 +40,7 @@
 ![Java](https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=f7768e)
 ![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
 
-</div>
+
 
 
 ###  Tools & Platforms

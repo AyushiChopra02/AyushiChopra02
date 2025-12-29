@@ -34,6 +34,14 @@
 ![Express.js](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a)
+<h2 align="center">Languages</h2>
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=f7768e)
+![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
+
+</div>
+
 
 ###  Tools & Platforms
 ![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=e0af68)

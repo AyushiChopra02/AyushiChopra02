@@ -84,6 +84,4 @@
 </p>
 
 
-<!-- Connect -->
-<h1 align="center">Connect with me</h2>
-<p align="center">
+

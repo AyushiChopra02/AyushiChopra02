@@ -31,6 +31,7 @@
 
 ###  Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
+![Express.js](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a)
 

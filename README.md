@@ -8,7 +8,8 @@
 <img align="center" alt="coding"  width="800" height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
  <div align="center">
   <br/><br/>
-
+<h2 align="center">How to reach me.</h2>
+<div align="center">
   [![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushichopra.02@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ayushi-chopra02/)
 
